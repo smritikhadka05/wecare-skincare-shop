@@ -1,0 +1,4 @@
+Product,Brand,Quantity,Cost Price,Country
+Vitamin C Serum,Garnier,192,1000.0,France
+Skin Cleanser,Cetaphil,95,1000.0,Switzerland
+Sunscreen,Aqualogica,175,2000.0,India
